@@ -1,0 +1,11 @@
+.gitignore.swp
+
+
+*.tar.gz
+*.zip
+
+linux-aarch64/
+linux-amd64/
+linux-arm/
+windows-amd64/
+
